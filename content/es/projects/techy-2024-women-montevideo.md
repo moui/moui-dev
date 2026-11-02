@@ -1,6 +1,6 @@
 ---
 title: "Techy 2024: Representatividad de Mujeres en Montevideo"
-description: "Demo desarrollada para el Techy Day 2024 de CUTI, un evento que acerca las carreras tecnológicas a estudiantes de secundaria. Visualiza la representatividad de mujeres en todos los barrios de Montevideo usando datos censales abiertos."
+description: "Demo desarrollada para el Techy Day 2024 de CUTI, un evento que acerca las carreras tecnológicas a estudiantes de secundaria. Muestra la representatividad de mujeres en los nombres de calles y espacios públicos de Montevideo, construida paso a paso en commits: mapa base, capas, estilos y una herramienta de comparación."
 tech:
   - "TypeScript"
   - "Vite"
