@@ -1,0 +1,55 @@
+---
+title: "habilidades"
+number: "04."
+categories:
+  - title: "frontend"
+    skills:
+      - "TypeScript"
+      - "JavaScript"
+      - "HTML5"
+      - "CSS3"
+      - "React"
+      - "Angular"
+      - "Redux"
+      - "Vite"
+      - "ArcGIS Maps SDK for JS"
+  - title: "backend"
+    skills:
+      - "C# / .NET"
+      - "Python"
+      - "Flask"
+      - "Node.js"
+      - "PHP / Symfony"
+      - "Java"
+      - "C++"
+      - "SQL"
+  - title: "base de datos"
+    skills:
+      - "PostgreSQL"
+      - "MySQL"
+      - "MongoDB"
+      - "Bases de Datos Geográficas"
+  - title: "gis & arcgis"
+    skills:
+      - "ArcGIS Enterprise"
+      - "ArcGIS Pro"
+      - "ArcGIS Maps SDK for JS"
+      - "ArcGIS REST APIs"
+      - "Ciencia de Datos Espaciales"
+  - title: "herramientas"
+    skills:
+      - "Git"
+      - "GitHub"
+      - "Power BI"
+  - title: "gestión"
+    skills:
+      - "Liderazgo de Equipos"
+      - "Gestión de Proyectos"
+      - "Scrum"
+      - "Administración de Empresas"
+  - title: "prácticas"
+    skills:
+      - "DevOps"
+      - "CI/CD"
+      - "Infraestructura Cloud"
+---
